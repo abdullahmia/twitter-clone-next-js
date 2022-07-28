@@ -25,7 +25,7 @@
 
 ## About The Project
 
-<img src="https://user-images.githubusercontent.com/57964315/181584293-2f8b4e81-f592-4ac9-a512-6fce689fc6ce.png" alt="Logo">
+<img src="https://user-images.githubusercontent.com/57964315/181623463-d4aa1edd-47c9-4faf-a9bc-b63ca8a39ca6.png" alt="Logo">
 
 The title of the project is “Twitte Clone". This project will handle the some activities of the twitter. Such as post features like, delete, comment features as well. It is built by Next Js & Tailwindcss.
 
