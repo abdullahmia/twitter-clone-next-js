@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/abdullahmia/twitter-clone-next-js">
     <img src="https://user-images.githubusercontent.com/57964315/181583705-2ca939e8-0d69-49be-b50b-16b856b4c1ac.jpg" alt="Logo" width="80" height="80">
   </a>
 
@@ -13,7 +13,7 @@
     <a href="https://github.com/abdullahmia/twitter-clone-next-js"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://twitter-clone-next-js-one.vercel.app/">View Demo</a>
+    <a href="https://twitter-clone-next-qb3v0ndzq-abdullahmia.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/abdullahmia/twitter-clone-next-js/issues">Report Bug</a>
     ·
